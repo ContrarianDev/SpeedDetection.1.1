@@ -1,0 +1,7 @@
+opencv-python
+pygame
+numpy
+pytz
+supervision
+inference
+ultralytics
