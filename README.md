@@ -130,7 +130,7 @@ SpeedDetection.1.1/
 
    ```powershell
    python -m venv venv
-   venv\scripts\Aactivate
+   venv\scripts\activate
    ```
 
    **macOS / Linux:**
