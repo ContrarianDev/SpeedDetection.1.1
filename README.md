@@ -120,7 +120,7 @@ SpeedDetection.1.1/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/SpeedDetection.1.1.git
+   git clone https://github.com/ContrarianDev/SpeedDetection.1.1.git
    cd SpeedDetection.1.1
    ```
 
